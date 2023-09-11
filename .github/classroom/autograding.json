@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Test 2",
+      "setup": "",
+      "run": "javac Example.java && java Example",
+      "input": "",
+      "output": "The given month is in the Summer.",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
